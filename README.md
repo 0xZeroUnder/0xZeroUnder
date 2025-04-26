@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👾 ZeroUnder
 
-<!--
-**0xZeroUnder/0xZeroUnder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Silence Below. Impact Above.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm **ZeroUnder**, a cybersecurity enthusiast, automation engineer, and future red teamer.  
+I specialize in:
+
+- 🛡 Ethical Hacking & CTFs
+- 🤖 Automation Tools (Python + Selenium)
+- ⚡ Web Exploitation & Recon
+- 🧠 Always learning, always adapting
+
+---
+
+## 🛠 Current Focus
+- Building intelligent bots and stealth automation systems.
+- Enhancing real-world cybersecurity skills through practical challenges.
+
+---
+
+## 🚀 Motto
+> "Operate where detection ends."
+
+---
+
+## 📫 Reach Me
+- 📧 Coming Soon...
+- 🕳️ Hidden until ready... stay tuned.
+
+---
